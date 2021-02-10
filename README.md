@@ -4,7 +4,7 @@ Deltax Hacks 2020 Hackathon Project VolunTier
 Top 15 out of 148 submissions, international.
 
 This project was created for the Deltax Hacks 2020 Hackathon Project. The Hackathon website is this: https://deltaxhacks.com/
-This project was made by Pranav Subbaraman, Raghav Misra, and Lehuy Hong. 
+
 This project is an updated version of the voluntier project that was made in the Pleasanton Hackathon.
 It uses Vue for styling. 
 
